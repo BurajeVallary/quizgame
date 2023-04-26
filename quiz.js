@@ -24,7 +24,7 @@ const quiz = [
       {
 
         question: "How many bones do we have in an ear?",
-        options: ["1", "1", "3", "2"],
+        options: ["1", "4", "3", "2"],
         answer: "3"
       }
   ];
