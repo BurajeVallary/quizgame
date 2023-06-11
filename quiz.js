@@ -26,7 +26,17 @@ const quiz = [
         question: "How many bones do we have in an ear?",
         options: ["1", "4", "3", "2"],
         answer: "3"
+      },
+
+
+      {
+
+        question: "Who painted mona lisa",
+        options: [" Vincent van Gogh", "Leonardo da Vinci", " Pablo Picasso", "Michelangelo"],
+        answer: " Leonardo da Vinc"
       }
+      
+
   ];
   
  
