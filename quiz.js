@@ -32,8 +32,15 @@ const quiz = [
       {
 
         question: "Who painted mona lisa",
-        options: [" Vincent van Gogh", "Leonardo da Vinci", " Pablo Picasso", "Michelangelo"],
-        answer: " Leonardo da Vinc"
+        options: ["Leonardo da Vinc ", "Pablo Picasso", "Vincent van Gogh ", "Michelangelo"],
+        answer: "Leonardo da Vinc "
+      },
+
+      {
+
+        question: "Who invented the telephone",
+        options: ["Thomas Edison", "Nikola Tesla", " Alexander Graham Bell", "Guglielmo Marconi"],
+        answer: " Alexander Graham Bell "
       }
       
 
